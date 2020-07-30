@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "name": "Yelp camp app",
+      "description": "Yelp camp application allows user to post camp site alone with photos, description and title. User can also click image to view individual camp side, and add comment to each post.",
+      "createdTime": 2020,
+      "stacks": ["HTML", "CSS", "Nodejs", "Mongodb", "EJS"],
+      "image": "yelp-camp.jpg",
+      "gitLink": "https://github.com/AndyJPG/web-bootcamp/tree/master/back-end-practice/YelpCamp"
+    },
+    {
+      "name": "Restful blog app",
+      "description": "Restful blog app, use restful route concept to implement a blog app. Used mongodb as database to store any post and responses to post, delete and alter requests.",
+      "createdTime": 2020,
+      "stacks": ["HTML", "CSS", "Nodejs", "Mongodb", "EJS"],
+      "image": "restful-blog-app.jpg",
+      "gitLink": "https://github.com/AndyJPG/web-bootcamp/tree/master/restful-blog-app"
+    },
+    {
+      "name": "OhFarm app",
+      "description": "OhFarm is an application aim to ofter detailed vegetable plantating information to users. The application provides information about grow season, vegetable type, growing information and so on, for each plant. The app also offer functionality to track planting progress and notify user when it is time to water the plant",
+      "createdTime": 2019,
+      "stacks": ["Swift"],
+      "image": "ohfarm-app.jpg",
+      "gitLink": "https://github.com/AndyJPG/OhFarmV2.0"
+    },
+    {
+      "name": "Color Game",
+      "description": "Simple color guessing game that interact with user. Provide user with color code and let user click the generated color to guess the color.",
+      "createdTime": 2020,
+      "stacks": ["HTML", "CSS", "JavaScript"],
+      "image": "color-game-app.jpg",
+      "demo": "/projects/color-game",
+      "gitLink": "https://github.com/AndyJPG/web-bootcamp/tree/master/Color-game-project"
+    },
+    {
+      "name": "jQuery todo list",
+      "description": "Todo list allow people to input tasks. The input them store in the memory and user can also easily delete any unwanted tasks.",
+      "createdTime": 2019,
+      "stacks": ["HTML", "CSS", "jQuery"],
+      "image": "jquery-todo-list.jpg",
+      "gitLink": "https://github.com/AndyJPG/web-bootcamp/tree/master/jQuery-todo-list"
+    },
+    {
+      "name": "Movie search app",
+      "description": "Movie search app uses third party API to obtain the latest movies. It has functionality to search movie by inputting name.",
+      "createdTime": 2019,
+      "stacks": ["Nodejs", "EJS"],
+      "image": "movie-search-app.jpg",
+      "gitLink": "https://github.com/AndyJPG/web-bootcamp/tree/master/back-end-practice/movieSearchApp"
+    },
+    {
+      "name": "Calculator exercise",
+      "description": "Calculator that does simple calculation.",
+      "createdTime": 2019,
+      "stacks": ["HTML", "CSS", "JavaScript"],
+      "image": "calculator-app.jpg",
+      "gitLink": "https://github.com/AndyJPG/myWeb/tree/master/practice/js-exercise/calculator"
+    },
+    {
+      "name": "Binary converter exercise",
+      "description": "Binary converter that converts binary to number.",
+      "createdTime": 2019,
+      "stacks": ["HTML", "CSS", "JavaScript"],
+      "image": "binary-app.jpg",
+      "gitLink": "https://github.com/AndyJPG/myWeb/tree/master/practice/js-exercise/calculator"
+    },
+    {
+      "name": "CSS exercise",
+      "description": "CSS exercise use plain HTML and CSS to build twitter UI. Use grid system in the design.",
+      "createdTime": 2019,
+      "stacks": ["HTML", "CSS"],
+      "image": "css-exercise.jpg",
+      "gitLink": "https://github.com/AndyJPG/myWeb/tree/master/practice/css-exercise"
+    }
+  ]
+}
