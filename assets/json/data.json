@@ -56,7 +56,6 @@
       "createdTime": 2019,
       "stacks": ["HTML", "CSS", "JavaScript"],
       "image": "calculator-app.jpg",
-      "demo": "calculator",
       "gitLink": "https://github.com/AndyJPG/myWeb/tree/master/practice/js-exercise/calculator"
     },
     {
