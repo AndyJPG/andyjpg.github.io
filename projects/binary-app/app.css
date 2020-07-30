@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+input:focus {
+    outline: none;
+}
+
+.alert {
+    margin-top: 10px;
+    display: none;
+}
