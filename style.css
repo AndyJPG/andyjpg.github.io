@@ -2051,6 +2051,7 @@ img.aligncenter {
 .btn-primary {
     color: #010101;
     background-color: #c0e3e7;
+    border: 1px solid #191919;
 }
 
 .btn-lg {
@@ -2611,7 +2612,7 @@ img.aligncenter {
 }
 
 .primary-social li a {
-    color: #c0e3e7;
+    color: #191919;
     font-size: 1.4em;
 }
 
@@ -4655,7 +4656,7 @@ yx-axis
 .icon-list .ace-icon,
 .post-title a:hover,
 #ace-nav-wrap .ace-nav li.active a {
-    color: #c0e3e7;
+    color: #0057ff;
 }
 
 mark,
@@ -4668,7 +4669,7 @@ mark,
 
 .brd-primary,
 #ace-nav-sm li.active a {
-    border-color: #c0e3e7;
+    border-color: #0057ff;
 }
 
 ::-moz-selection {
@@ -4748,7 +4749,7 @@ blockquote,
 /* Color Lighter: $color-lighter */
 body,
 .form-item {
-    background-color: #f3f3f3;
+    background-color: #f9f9f9;
 }
 
 /* Color Lightest: $color-lightest */
@@ -4826,6 +4827,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #ace-content {
         background: none;
+        padding-left: 40px;
     }
 
     .ace-paper {
@@ -4882,6 +4884,7 @@ h1, h2, h3, h4, h5, h6 {
     #ace-card {
         float: left;
         width: 288px;
+        margin-left: 20px;
     }
 }
 
@@ -6374,6 +6377,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 66%;
     background-color: #f0f0f0;
     margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
 }
 
 @media (min-width: 768px) {
