@@ -870,6 +870,10 @@ textarea.form-item {
     margin-top: 2.1em;
 }
 
+.form-submit .btn-lg {
+    padding: 12px 35px;
+}
+
 @media (min-width: 768px) {
     .form-label {
         width: 100px;
@@ -2056,7 +2060,7 @@ img.aligncenter {
 
 .btn-lg {
     font-size: 15px;
-    padding: 12px 35px;
+    padding: 12px 0;
 }
 
 .btn-sm {
@@ -2604,7 +2608,8 @@ img.aligncenter {
 }
 
 .ace-social a:hover {
-    opacity: 0.7;
+    /*opacity: 0.7;*/
+    color: #0057ff;
 }
 
 .primary-social li {
@@ -5079,7 +5084,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #ace-main-nav > ul > li:hover > a,
 #ace-main-nav > ul > li.current > a {
-    color: #000;
+    color: #0057ff;
 }
 
 #ace-main-nav > ul > li > .sub-menu {
@@ -5220,7 +5225,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #ace-nav-wrap .ace-nav li a:hover {
-    opacity: 0.5;
+    /*opacity: 0.5;*/
 }
 
 #ace-nav-wrap .ace-nav li.active a:hover {
@@ -5229,6 +5234,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #ace-nav-wrap .ace-nav .ace-icon {
     font-size: 28px;
+}
+
+#ace-nav-wrap .ace-nav .ace-icon:hover {
+    color: #0057ff;
 }
 
 .ace-nav-btm {
@@ -6551,4 +6560,14 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateZ(0px);
     transition: opacity 400ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
     z-index: 1200;
+}
+
+/* Company logo in experience*/
+.company-logo {
+    margin: 50px 0 20px 0;
+}
+
+.company-logo img {
+    max-height: 100%;
+    max-width: 120px;
 }
